@@ -1,0 +1,35 @@
+.rows-column {
+  content: "";
+  clear: both;
+  display: block;
+  display: center;
+}
+span {
+  margin-left: 3px;
+}
+.blocks {
+  float: left;
+}
+.column-Pharmacy {
+  float: left;
+  width: 20%;
+  padding: 5px;
+}
+.image-size {
+  height: 141px;
+}
+.Pharmacy {
+  text-align: center;
+  background-color: rgb(235, 241, 248);
+}
+.Order-now {
+  margin-top: 2px;
+}
+
+.input-quantity {
+  width: 140px;
+  text-align: center;
+}
+.alert-itemadded{
+  z-index: 1000;
+}

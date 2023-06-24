@@ -1,0 +1,199 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.appointmentPayment {
+
+  display: flex;
+  margin-top: 3px;
+  margin-left: 144px;
+
+}
+body {
+  font-style: normal;
+  background-color: #e3e3e3;
+  font-weight: normal;
+}
+
+.links-dashboards {
+  list-style: none;
+  position: relative;
+  left: 0%;
+  background-color: blue;
+  width: 14vw;
+  height: 100vh;
+}
+.links-dashboards li {
+  padding: 8px 8px 8px 0px;
+}
+.appoint-check {
+  position: absolute;
+  left: 160px;
+  top: 464px;
+}
+.li-one,
+.li-two,
+.li-three,
+.li-four,
+.li-five {
+  color: beige;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.category {
+  display: flex;
+  margin-left: 153px;
+}
+.form-select .form-select-sm .w-25 .p-3 .mh-25 {
+  position: relative;
+  top: 100px;
+  width: 100px;
+}
+
+#select-one-doctor {
+  display: flex;
+  margin-left: 292px;
+  margin-top: -38px;
+  margin-bottom: 20px;
+}
+.form-select .form-select-sm {
+  width: 20%;
+  padding-bottom: 1px;
+}
+
+#select-one-problem {
+  display: flex;
+  margin-left: 292px;
+  margin-top: -38px;
+  margin-bottom: 20px;
+}
+.h3-select-date {
+  display: flex;
+  margin-left: 153px;
+}
+
+.li-one:hover,
+.li-two:hover,
+.li-three:hover,
+.li-five:hover,
+.li-four:hover {
+  color: rgb(172, 169, 169);
+}
+.pat_details {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  font-weight: bold;
+  display: block;
+  position: absolute;
+  top: 80px;
+  left: 325px;
+}
+.PreviousAppointment {
+  margin-top: 55px;
+  display: flex;
+  margin-left: 155px;
+}
+.Table {
+  position: relative;
+  top: 225px;
+}
+.doctors-list {
+  display: flex;
+  margin-left: 153px;
+}
+.select-time {
+  display: flex;
+  margin-left: 153px;
+}
+#select-time-picker-clock {
+  position: relative;
+  left: 290px;
+  top: 10px;
+}
+#button-book-appointment {
+  display: flex;
+  margin-left: 143px;
+  margin-top: 26px;
+}
+.ContactUs {
+  text-align: center;
+  display: block;
+  position: absolute;
+}
+
+.Datepicker,
+.Datepicker:focus {
+  display: flex;
+  margin-left: 292px;
+  margin-top: -38px;
+  margin-bottom: 20px;
+}
+.TImepicker {
+  display: flex;
+  margin-left: 292px;
+  margin-top: -38px;
+  margin-bottom: 20px;
+}
+.time-pickme {
+  display: flex;
+  margin-left: 292px;
+  margin-top: -38px;
+  margin-bottom: 20px;
+}
+
+.MobileNo {
+  position: fixed;
+  top: 430px;
+  left: 160px;
+}
+.send_mobile_no {
+  position: fixed;
+  top: 432px;
+  left: 290px;
+}
+
+.logout {
+  background-color: white !important;
+  position: fixed;
+  left: 1262px;
+  top: 20px;
+}
+.column-how {
+
+  margin-top: -369px;
+  display: flex;
+  justify-content: end;
+  margin-right: 117px;
+
+}
+.how-text {
+  margin-left: 72%;
+}
+footer {
+  text-align: center;
+  color: black;
+  background-color: #3d3d3d;
+  height: 10vh;
+
+  width: 100%;
+}
+.bookAlert {
+  z-index: 10000;
+}
+#google-pay {
+  position: absolute;
+  left: 1px;
+  top: -80px;
+  margin-top: 10px;
+}
+
+.payment {
+  display: flex;
+  align-items: center;
+  position: relative;
+  top: 350px;
+  left: 160px;
+}

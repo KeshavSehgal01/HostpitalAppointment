@@ -1,0 +1,15 @@
+.pharmacyPayment {
+  display: flex;
+  justify-content: center;
+}
+.Confirm-button {
+  margin-top: 10px;
+}
+.Reset-button {
+  margin-right: 15px;
+  margin-left: 35px;
+}
+
+.gpay-button {
+  width: 148px !important;
+}
